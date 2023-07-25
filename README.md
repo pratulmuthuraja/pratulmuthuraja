@@ -8,7 +8,7 @@ Recent Masters in Computer Science graduate from Illinois Institute of Technolog
 - 🖥️  See my portfolio at [www.pratulmuthuraja.com](http://pratulmuthuraja.com)
 - ✉️  You can contact me at [pratulmuthuraja@gmail.com](mailto:pratulmuthuraja@gmail.com)
 - 🚀  I'm currently working on [a Quote Generator App](http://github.com/pratulmuthuraja/quotes-generator-app)
-- 🧠  I'm learning React
+- 🧠  I'm learning React, Three.js
 - 🤝  I'm open to collaborating on any small, interesting, and fun projects
 - ⚡  I love bouldering and dogs
 
