@@ -1,4 +1,4 @@
-# Hi 👋 My name is Pratul Muthuraja
+# Hi 👋 I'm Pratul Muthuraja
 
 ## Web Developer
 
