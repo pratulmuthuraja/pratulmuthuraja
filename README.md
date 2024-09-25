@@ -2,7 +2,9 @@
 
 ## Web Developer
 
-Recent Masters in Computer Science graduate from Illinois Institute of Technology. Actively looking for Front-End, Back-End, and Full-Stack Web Developer positions to apply and challenge my diverse skill set. Experienced in Python, JavaScript, Java, C/C++, HTML/CSS, front & back end frameworks including Django, ReactJS, Vue.js, Angular, Next.js, and Spring Boot. I also have experience in Software Development Life Cycle methodologies, and Cloud Technologies such as AWS, Azure, GCP, and Terraform.
+Masters in Computer Science graduate from Illinois Institute of Technology. 
+
+Actively looking for Front-End, Back-End, and Full-Stack Web Developer positions to apply and challenge my diverse skill set. Experienced in Python, JavaScript, Java, C/C++, HTML/CSS, front & back end frameworks including Django, ReactJS, Vue.js, Angular, Next.js, and Spring Boot. I also have experience in Software Development Life Cycle methodologies, and Cloud Technologies such as AWS, Azure, GCP, and Terraform.
 
 - 🖥️  See my portfolio at [www.pratulmuthuraja.com](http://pratulmuthuraja.com)
 - ✉️  You can contact me at [pratulmuthuraja@gmail.com](mailto:pratulmuthuraja@gmail.com)
