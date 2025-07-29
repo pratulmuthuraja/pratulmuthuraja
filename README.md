@@ -11,7 +11,6 @@ Flask, Git, GitHub, Three.js, PostgreSQL, MongoDB, Jenkins, Typescript, Nginx, L
 
 - 🖥️  See my portfolio at [www.pratulmuthuraja.com](http://pratulmuthuraja.com)
 - ✉️  You can contact me at [pratulmuthuraja@gmail.com](mailto:pratulmuthuraja@gmail.com)
-- 🧠  I'm working on my CKAD Certification
 - 🤝  I'm open to collaborating on any small, interesting, and fun projects
 - 🏠  Homelab & Self-Hosting
 - ⚡  I love bouldering and dogs
